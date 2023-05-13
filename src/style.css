@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+.mainDiv{
+    margin-top: 50px;
+    margin-right: 30%;
+    margin-left: 40%;
+    width: 40%;
+}
+.num1,.num2{
+    margin-top: 10px;
+}
+.num1 label,.num2 label{
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+.num1 input,.num2 input{
+    font-size: 16px;
+    padding: 5px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.btnClass{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn{
+    width: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid white;
+}
